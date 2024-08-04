@@ -1,0 +1,52 @@
+{
+    "page" : "SERVICES",
+    "content": [
+        {
+            "id" : "202020",
+            "post_id": "IUVQG2137TV23897",
+            "content": [
+                {
+                    "name" : "POST_IMG_GALERY",
+                    "type" : "img",
+                    "extension": ".png",
+                    "content": "BBBB"
+                },
+                {
+                    "name" : "POST_CONTAINER_GALERY",
+                    "type" : "text",
+                    "content" : "A biologia por tras das antas"
+                },
+                {
+                    "name" : "POST_TEXT_GALERY",
+                    "type" : "text",
+                    "limit": 20,
+                    "content" : " Esse intercâmbio, assim como a comunicação sobre conservação e sobre o papel das antas na natureza é fundamental. Patrícia claramente é uma ..."
+                }
+                
+            ]
+        },
+        {
+            "id" : "202020",
+            "post_id": "V34B3H3Y3HWHEH43H",
+            "content": [
+                {
+                    "name" : "POST_IMG_GALERY",
+                    "type" : "img",
+                    "extension": ".png",
+                    "content": "BBBB"
+                },
+                {
+                    "name" : "POST_CONTAINER_GALERY",
+                    "type" : "text",
+                    "content" : "A biologia por tras das antas"
+                },
+                {
+                    "name" : "POST_TEXT_GALERY",
+                    "type" : "text",
+                    "content" : " Esse intercâmbio, assim como a comunicação sobre conservação e sobre o papel das antas na natureza é fundamental. Patrícia claramente é uma ..."
+                }
+                
+            ]
+        }
+    ]
+}

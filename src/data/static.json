@@ -1,0 +1,35 @@
+[
+    {
+        "page" : "HOMEPAGE",
+        "content" : [
+            {
+                "id": "ABOUT_TITLE",
+                "type" : "text",
+                "content": "Sobre o proctum"
+            },
+            {
+                "id": "ABOUT_TEXT",
+                "type" : "text",
+                "content": "A proctum tem o intuito de levar de forma visual e facilitada a insersão de conteudos em seu site ou sistema"
+            },
+            {
+                "id": "IMG_CONTENT",
+                "type" : "img",
+                "extension": ".png",
+                "content": "AAA"
+            },
+            {
+                "id": "72AF0",
+                "type" : "post",
+                "file" : "blog.json",
+                "reference" : ["POST_NAME_BLOG" , "POST_CONTENT_BLOG" , "POST_LINK_BLOG"]
+            },
+            {
+                "id": "202020",
+                "type" : "post",
+                "file" : "gallery.json",
+                "reference" : ["POST_CONTAINER_GALERY" , "POST_TEXT_GALERY" , "POST_IMG_GALERY" , "POST_LINK_BLOG"]
+            }
+        ]
+    }
+]
